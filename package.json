@@ -1,0 +1,17 @@
+{
+    "name": "KH",
+    "private": true,
+    "version": "1.0.0",
+    "description": "---",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "art-template": "^4.13.2",
+        "express": "^4.17.1",
+        "express-art-template": "^1.0.1",
+        "formidable": "^1.2.1",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
